@@ -87,8 +87,9 @@ Small but powerful Python tools for practice, automation, and logic building.
 ## 🐍 Contribution Snake (Fun)
 
 <p align="center">
-  <img src="https://github.com/manas0x/manas0x/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/manas0x/manas0x/output/snake.svg" alt="GitHub contribution snake" />
 </p>
+
 
 ---
 
