@@ -35,8 +35,8 @@
 ### **Currently Learning**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![APIs](https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-000000?logo=powerautomate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-000000?logo=PowerAutomate&logoColor=white)
 
 ---
 
@@ -45,61 +45,71 @@
 ### 🔹 **💼 Portfolio Website**
 A personal portfolio showcasing skills, projects, and achievements.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 *Live Preview* (manas.eu.org)
+🔗 **Live Preview:** https://manas.eu.org  
+🔗 **Repo:** https://github.com/ManasCodeLab/My-Portfolio
 
 ---
 
 ### 🔹 **🧮 Calculator App**
 A clean and simple calculator UI using JavaScript.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 Repo: github.com/manas0x/calculator
+🔗 **Repo:** https://github.com/manas0x/calculator
 
 ---
 
 ### 🔹 **🎵 JioSaavn Song Downloader**
 A functional downloader using JioSaavn’s API.  
-**Tech:** PHP, JS, HTML, CSS  
-🔗 Live Preview + GitHub repo available
+**Tech:** PHP, JavaScript, HTML, CSS  
+🔗 Repo + Live Preview available on your profile.
 
 ---
 
 ### 🔹 **📝 To-Do List Web App**
 Modern and user-friendly task manager.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 Repo: github.com/manas0x/To-Do-List
+🔗 **Repo:** https://github.com/manas0x/To-Do-List
 
 ---
 
 ### 🔹 **🐍 Python Mini Projects**
-Small but powerful Python tools for practice, automation, and logic building.
+Mini tools for automation, logic-building, and learning.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Using your working services)
 
-![](https://github-readme-stats.vercel.app/api?username=manas0x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manas0x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manas0x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manas0x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manas0x&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=manas0x&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Contribution Snake (Fun)
-
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manas0x/manas0x/output/snake.svg" alt="GitHub contribution snake" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manas0x&theme=dark&hide_border=false" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manas0x&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=manas0x&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manas0x/manas0x/output/snake.svg" />
+</p>
 
 ---
 
@@ -107,7 +117,7 @@ Small but powerful Python tools for practice, automation, and logic building.
 
 - 📧 **Email:** aroramanas01@gmail.com  
 - 🔗 **LinkedIn:** https://bit.ly/manas_link  
-- 🌐 **Portfolio:** manas.eu.org (if active)  
+- 🌐 **Portfolio:** https://manas.eu.org  
 
 ---
 
@@ -116,14 +126,13 @@ Small but powerful Python tools for practice, automation, and logic building.
 - Learn backend + databases  
 - Contribute to open-source  
 - Create automation tools  
-- Improve problem-solving + DSA  
+- Improve problem-solving & DSA  
 
 ---
 
-## 💬 Quote I Follow
-> *"Code, learn, improve — every single day."*
-
----
-
-## ⭐ Thanks for visiting!
+## ⭐ Thanks for Visiting!
 If you like my work, consider giving my repositories a ⭐.
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=manas0x&icon=0&color=0" />
+</p>
