@@ -123,9 +123,9 @@ Explore them on my GitHub profile.
 ## 📈 Profile Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kashishchadha&label=Profile%20Views&color=blueviolet&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/kashishchadha?label=Followers&style=social"/>
-  <img src="https://img.shields.io/github/stars/kashishchadha?label=Stars&style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=manas0x&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/manas0x?label=Followers&style=social"/>
+  <img src="https://img.shields.io/github/stars/manas0x?label=Stars&style=social"/>
 </p>
 
 ---
