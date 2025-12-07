@@ -1,138 +1,129 @@
-<h2 align="center">👋 Hi, I'm <strong>Manas Arora</strong></h2>
+<h1 align="center">✨ Manas Arora — Crafting Code with Creativity 🚀</h1>
 
 <p align="center">
-  <b>B.Tech CSE Student | Python Developer | Web Developer</b><br>
-  Passionate about building real-world projects, backend systems, and automation tools.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Web+Developer;Backend+Learner+%7C+Automation+Builder;Turning+Ideas+into+Clean+%26+Functional+Projects" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Second-year **B.Tech CSE** student  
-- 💻 Skilled in **Python**, **JavaScript**, **HTML**, **CSS**  
-- 🌱 Currently learning **Backend Development & Automation**  
-- 🔧 Love creating practical tools, web apps, and clean UI-based projects  
-- 📦 Exploring APIs, databases, and full-stack development  
-- 🤝 Open to collaboration on interesting projects  
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### **Tools / Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-
-### **Currently Learning**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-000000?logo=PowerAutomate&logoColor=white)
+## 🔥 About Me  
+💻 Second-year **B.Tech CSE** student  
+🐍 Passionate **Python developer**  
+🌐 Web developer with clean UI focus  
+🛠️ Building tools, automation scripts & real-world projects  
+🎯 Always learning **backend, databases & APIs**  
+🤝 Open to collaborations  
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **💼 Portfolio Website**
-A personal portfolio showcasing skills, projects, and achievements.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 **Live Preview:** https://manas.eu.org  
-🔗 **Repo:** https://github.com/ManasCodeLab/My-Portfolio
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,nodejs,mysql,git,github,bootstrap" height="70"/>
+</div>
 
 ---
 
-### 🔹 **🧮 Calculator App**
-A clean and simple calculator UI using JavaScript.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 **Repo:** https://github.com/manas0x/calculator
+# 🚀 Featured Projects
+
+### 💼 **Portfolio Website**
+📌 Modern personal portfolio showcasing your journey  
+🛠 *HTML, CSS, JS*  
+🔗 https://manas.eu.org  
+🔗 Repo: https://github.com/ManasCodeLab/My-Portfolio  
 
 ---
 
-### 🔹 **🎵 JioSaavn Song Downloader**
-A functional downloader using JioSaavn’s API.  
-**Tech:** PHP, JavaScript, HTML, CSS  
-🔗 Repo + Live Preview available on your profile.
+### 🧮 **Calculator App**
+Simple & clean UI  
+🛠 *HTML, CSS, JS*  
+🔗 https://manascodelab.github.io/calculator/  
+🔗 Repo: https://github.com/manas0x/calculator  
 
 ---
 
-### 🔹 **📝 To-Do List Web App**
-Modern and user-friendly task manager.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 **Repo:** https://github.com/manas0x/To-Do-List
+### 🎵 **JioSaavn Song Downloader**
+A functional API-based music downloader  
+🛠 *PHP, JS, HTML, CSS*  
+🔗 Repo + Live on profile  
 
 ---
 
-### 🔹 **🐍 Python Mini Projects**
-Mini tools for automation, logic-building, and learning.
+### 📝 **To-Do Web App**
+Minimal & user-friendly task manager  
+🛠 *HTML, CSS, JS*  
+🔗 Repo: https://github.com/manas0x/To-Do-List  
 
 ---
 
-## 📊 GitHub Stats (Using your working services)
+# 🧊 GitHub Stats (Premium Look)
 
-### 🔥 Streak Stats
+<div align="center">
+
+### 🔥 Streak Stats  
+<img src="https://nirzak-streak-stats.vercel.app/?user=manas0x&theme=dark&hide_border=false" height="180"/>
+
+### 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=manas0x&theme=radical&margin-w=15" />
+
+### 📊 Top Contributed Repos  
+<img src="https://github-contributor-stats.vercel.app/api?username=manas0x&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180"/>
+
+</div>
+
+---
+
+# 💡 Random Developer Quote
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manas0x&theme=dark&hide_border=false" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manas0x&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+# 🐍 Contribution Snake (Fun)
 
----
-
-### 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manas0x&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/manas0x/manas0x/output/snake.svg" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
-
-- 📧 **Email:** aroramanas01@gmail.com  
-- 🔗 **LinkedIn:** https://bit.ly/manas_link  
-- 🌐 **Portfolio:** https://manas.eu.org  
-
----
-
-## 🎯 Goals for 2025
-- Build full-stack apps  
-- Learn backend + databases  
-- Contribute to open-source  
-- Create automation tools  
-- Improve problem-solving & DSA  
-
----
-
-## ⭐ Thanks for Visiting!
-If you like my work, consider giving my repositories a ⭐.
+# 📈 Social Stats (Working Counters)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=manas0x&icon=0&color=0" />
+
+  <!-- Working Profile Views -->
+  <img src="https://visitcount.itsvg.in/api?id=manas0x&label=Profile%20Views&color=6&icon=0" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/manas0x?label=Followers&style=social"/>
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/manas0x?label=Stars&style=social"/>
+
+</p>
+
+---
+
+# 🔗 Connect With Me  
+📧 Email: **aroramanas01@gmail.com**  
+💼 LinkedIn: https://bit.ly/manas_link  
+🌐 Portfolio: https://manas.eu.org  
+
+---
+
+# 🎯 Goals for 2025  
+✔ Build advanced full-stack apps  
+✔ Learn backend deeply (Node, PHP, databases)  
+✔ Contribute to open-source  
+✔ Develop automation tools  
+✔ Improve DSA & problem-solving  
+✔ Grow as a developer  
+
+---
+
+# ⭐ Thanks for Visiting!  
+If you like my work, consider giving my repositories a **⭐** — it motivates me!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Have+a+great+day+ahead!+%F0%9F%98%8E" />
 </p>
