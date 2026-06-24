@@ -133,8 +133,8 @@ Explore them on my GitHub profile.
 ## 🔗 Connect With Me
 
 - 📧 Email: **aroramanas01@gmail.com**  
-- 🔗 LinkedIn: https://bit.ly/manas_link  
-- 🌐 Portfolio: https://manas.eu.org  
+- 🔗 LinkedIn: https://linkedin.com/in/aroramanas01/  
+- 🌐 Portfolio: https://manas0x.site 
 
 ---
 
